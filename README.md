@@ -16,12 +16,13 @@ This project is organized sequentially by week. Navigate into each specific fold
 * **📁 Week_2/** - *Data modeling, schema design, and basic transformations.*
 * **📁 Week_3/** - *Advanced SQL (CTEs, Window Functions, Subqueries) & Customer Sales Insights.*
 * **📁 Week_4/** - *Azure Cloud Fundamentals, Blob Storage setup, and end-to-end Data Pipelines using ADF.*
+* **📁 Week_5/** - *Apache Spark Fundamentals, PySpark DataFrames, Data Cleaning, and Aggregation Pipelines.*
 
 ## Core Technologies
 * **Databases & Storage:** MySQL, Relational Database Management, Azure Blob Storage
-* **Languages:** SQL, Python
-* **Cloud & Tools:** Microsoft Azure, Azure Data Factory (ADF), IAM
-* **Concepts:** ETL/ELT Frameworks, Data Modeling, Data Cleansing, Data Governance, Cloud Data Architecture
+* **Languages:** SQL, Python, PySpark
+* **Cloud & Tools:** Microsoft Azure, Azure Data Factory (ADF), IAM, Apache Spark, Jupyter/Colab
+* **Concepts:** ETL/ELT Frameworks, Data Modeling, Data Cleansing, Data Governance, Cloud Data Architecture, Big Data Distributed Processing
 
 ---
 *Navigating this repository: Please open the individual weekly folders to explore the detailed code and documentation for each module.*
