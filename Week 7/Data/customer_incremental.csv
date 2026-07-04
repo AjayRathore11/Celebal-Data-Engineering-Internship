@@ -1,0 +1,4 @@
+customer_id,name,email,phone,location
+101,Alice Smith,alice@email.com,555-0101,Boston
+102,Bob Jones,bob@email.com,999-9999,Chicago
+104,David Lee,david@email.com,555-0404,Austin
