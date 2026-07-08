@@ -19,12 +19,13 @@ This project is organized sequentially by week. Navigate into each specific fold
 * **📁 Week_5/** - *Apache Spark Fundamentals, PySpark DataFrames, Data Cleaning, and Aggregation Pipelines.*
 * **📁 Week_6/** - *Spark Architecture (DAG, Lazy Evaluation), Data Type Casting, and Parquet vs. CSV Optimization.*
 * **📁 Week_7/** - *Delta Lake fundamentals, Incremental Data Pipelines, and Slowly Changing Dimensions (SCD Type 1 & Type 2).*
+* **📁 Week_8/** - *E-Commerce Data Analytics Pipeline: End-to-end Python/Pandas ETL, SQLite database generation, advanced SQL reporting, and data quality testing.*
 
 ## Core Technologies
-* **Databases & Storage:** MySQL, Relational Database Management, Azure Blob Storage, Delta Lake
+* **Databases & Storage:** MySQL, SQLite, Relational Database Management, Azure Blob Storage, Delta Lake
 * **Languages:** SQL, Python, PySpark
-* **Cloud & Tools:** Microsoft Azure, Azure Data Factory (ADF), IAM, Apache Spark, Jupyter/Colab
-* **Concepts:** ETL/ELT Frameworks, Data Modeling, Data Governance, Cloud Data Architecture, Big Data Distributed Processing, Performance Optimization (Parquet), ACID Transactions, Slowly Changing Dimensions (SCD)
+* **Cloud & Tools:** Microsoft Azure, Azure Data Factory (ADF), IAM, Apache Spark, Pandas, Jupyter/Colab
+* **Concepts:** ETL/ELT Frameworks, Data Modeling, Data Cleaning & Validation, Data Governance, Cloud Data Architecture, Big Data Distributed Processing, Performance Optimization (Parquet), ACID Transactions, Slowly Changing Dimensions (SCD)
 
 ---
 *Navigating this repository: Please open the individual weekly folders to explore the detailed code and documentation for each module.*
