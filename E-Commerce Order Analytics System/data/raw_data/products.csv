@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,cost_price
+1,Pant Model 53,Clothing,Pants,249.75
+2,  furnitur model 16  ,Home,Furniture,259.9
+3,Furnitur Model 70,Home,Furniture,47.18
+4,SHOE MODEL 51,Clothing,Shoes,148.77
+5,FICTIO MODEL 65,Books,Fiction,286.75
+6,Pant Model 52,Clothing,Pants,160.42
+7,  fictio model 33  ,Books,Fiction,189.03
+8,Deco Model 91,Home,Decor,459.58
+9,Phone Model 90,Electronics,Phones,470.12
+10,  audi model 56  ,Electronics,Audio,213.73
+11,Laptop Model 54,Electronics,Laptops,428.94
+12,Shoe Model 63,Clothing,Shoes,83.75
+13,Audi Model 69,Electronics,Audio,281.12
+14,  laptop model 97  ,Electronics,Laptops,244.43
+15,Shoe Model 48,Clothing,Shoes,377.63
+16,Phone Model 55,Electronics,Phones,201.32
+17,Laptop Model 29,Electronics,Laptops,485.47
+18,Shirt Model 87,Clothing,Shirts,191.7
+19,Fictio Model 62,Books,Fiction,95.06
+20,Deco Model 92,Home,Decor,33.86
+21,Deco Model 63,Home,Decor,387.56
+22,Shirt Model 43,Clothing,Shirts,337.35
+23,LAPTOP MODEL 98,Electronics,Laptops,317.03
+24,Non-Fictio Model 51,Books,Non-Fiction,38.78
+25,Pant Model 17,Clothing,Pants,345.62
+26,Fictio Model 30,Books,Fiction,179.64
+27,Fictio Model 36,Books,Fiction,281.95
+28,SHIRT MODEL 94,Clothing,Shirts,46.27
+29,Laptop Model 14,Electronics,Laptops,33.89
+30,  deco model 19  ,Home,Decor,430.25
+31,NON-FICTIO MODEL 40,Books,Non-Fiction,324.89
+32,Phone Model 52,Electronics,Phones,225.38
+33,  fictio model 51  ,Books,Fiction,47.68
+34,Fictio Model 94,Books,Fiction,289.55
+35,  fictio model 76  ,Books,Fiction,18.66
+36,Deco Model 85,Home,Decor,361.23
+37,Shoe Model 33,Clothing,Shoes,412.08
+38,Educationa Model 25,Books,Educational,21.29
+39,Deco Model 11,Home,Decor,180.06
+40,Deco Model 13,Home,Decor,328.41
+41,  furnitur model 31  ,Home,Furniture,96.41
+42,Kitche Model 97,Home,Kitchen,163.71
+43,FICTIO MODEL 28,Books,Fiction,29.04
+44,Pant Model 50,Clothing,Pants,244.83
+45,Phone Model 89,Electronics,Phones,171.51
+46,AUDI MODEL 82,Electronics,Audio,459.63
+47,Educationa Model 25,Books,Educational,448.28
+48,DECO MODEL 35,Home,Decor,264.84
+49,Pant Model 21,Clothing,Pants,400.86
+50,  deco model 84  ,Home,Decor,312.03
